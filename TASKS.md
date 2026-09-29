@@ -8,7 +8,7 @@ the agent as-is — adjust if you want to steer something differently.
 
 - [x] Init NestJS project, set up module structure
       > "Scaffold the NestJS app in apps/api per AGENTS.md and PROJECT_BRIEF.md — AuthModule, TranscriptsModule, SummaryModule as empty modules with placeholder controllers/services."
-- [ ] Init React (Vite) project
+- [x] Init React (Vite) project
       > "Scaffold apps/web as a React + Vite app, TypeScript template, no extra UI library yet."
 - [ ] Prisma schema for User, Transcript, Summary, ActionItem
       > "Add Prisma to apps/api and write the schema from PROJECT_BRIEF.md's data model. Generate the initial migration."
